@@ -4,4 +4,4 @@
 
 # Github Weekly Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enkyuan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enkyuan1&theme=tokyonight_duo&hide_border=true&date_format=j/N/Y)](https://git.io/streak-stats)
