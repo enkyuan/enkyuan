@@ -5,7 +5,3 @@
 # Skyline 2022
 
 ![model](model.png)
-
-# .stl
-
-![enkyuan-2022](enkyuan-2022.stl)
