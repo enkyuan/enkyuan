@@ -4,4 +4,4 @@
 
 # Skyline 2022
 
-![model](github_skyline_222/model.png)
+![model](github_skyline_22/model.png)
