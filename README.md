@@ -4,4 +4,4 @@
 
 # Test
 
-![skyline](github_skyline_22/enkyuan.stl)
+![skyline][github_skyline_22/enkyuan.stl]
