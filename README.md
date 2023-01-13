@@ -1,6 +1,12 @@
 # Github Stats
 
-![enkyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enkyuan&show_icons=true&theme=dark&hide_border=true)
+## Overview 
+
+![enkyuans's overview](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+## Languages
+
+![enkyuan's languages](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # Github Wrapped 2022
 
