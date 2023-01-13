@@ -2,11 +2,11 @@
 
 ## Overview 
 
-![enkyuans's overview](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![enkyuans's overview](https://github.com/enkyuan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
 ## Languages
 
-![enkyuan's languages](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![enkyuan's languages](https://github.com/enkyuan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 # Github Wrapped 2022
 
