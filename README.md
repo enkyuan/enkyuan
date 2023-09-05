@@ -30,7 +30,7 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
 ##### Frameworks
 
 <p align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" 
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" 
   img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">  
