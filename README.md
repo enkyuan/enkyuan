@@ -52,4 +52,5 @@ I've been computer programming since 2017 and enjoy building web-based and mobil
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/figma-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/firebase-plain.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg" width="50">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vscode-original.svg" width="50">
 </p>
