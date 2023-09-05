@@ -48,6 +48,6 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
 ##### Socials
 
 <p align="left">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/linked-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/linkedin-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/twitter-original.svg" width="50">
 </p>
