@@ -7,9 +7,6 @@
   <a href="https://twitter.com/enkyuan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://devpost.com/enkyuan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-    <img src="https://a11ybadges.com/badge?logo=devpost" alt="DevPost Badge"/>
-  </a>
 </div>
 
 <br/>
