@@ -20,7 +20,12 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
 
 ##### Languages
 
-<img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/python-original.svg" width="50">  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/nodejs-original.svg" width="50">  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
+<p align="center">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/python-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/nodejs-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
+</p>
 
 ##### Frameworks
 
