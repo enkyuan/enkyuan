@@ -2,10 +2,10 @@
 
 ## Overview
 
-![](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![overview](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/overview.svg#gh-dark-mode-only)
 
 ## Languages
 
-![](https://raw.githubusercontent.com/enkyuan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/languages.svg#gh-dark-mode-only)
 
 
