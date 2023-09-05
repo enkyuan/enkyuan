@@ -29,12 +29,25 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
 
 ##### Frameworks
 
-![](https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg)  ![](https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg)  ![](https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg)
+<p align="left">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
+</p>
 
 ##### Tools
 
-![](https://github.com/enkyuan/enkyuan/blob/main/devicons/androidstudio-original.svg)  ![](https://github.com/enkyuan/enkyuan/blob/main/devicons/figma-original.svg)  ![](https://github.com/enkyuan/enkyuan/blob/main/devicons/firebase-plain.svg)  ![](https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg)  
+<p align="left">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/androidstudio-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/figma-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/firebase-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg" width="50">
+</p>
 
 ##### Socials
 
-![https://www.linkedin.com/in/enkyuan/](https://github.com/enkyuan/enkyuan/blob/main/devicons/linkedin-original.svg) ![https://twitter.com/enkyuan](https://github.com/enkyuan/enkyuan/blob/main/devicons/twitter-original.svg)
+<p align="left">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/linked-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/twitter-original.svg" width="50">
+</p>
