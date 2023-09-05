@@ -30,10 +30,6 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
 ##### Frameworks
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" 
-    <img alt="flask light mode logo" img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flask-original.svg" width="50">  
-  </picture>
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
@@ -48,7 +44,7 @@ I've been programming since 2017 and enjoy building web-based and mobile applica
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg" width="50">
 </p>
 
-##### Socials
+#### Socials
 
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/linkedin-original.svg" width="50">  
