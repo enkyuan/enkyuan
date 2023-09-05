@@ -1,7 +1,13 @@
 ### Howdy 👋, I'm Enkang
 
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))]https://www.twitter.com/enkyuan
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))]https://www.linkedin.com/in/enkyuan
+<div id="badges">
+  <a href="your-linkedin-URL](https://www.linkedin.com/in/enkyuan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/enkyuan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
 
