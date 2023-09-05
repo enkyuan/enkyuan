@@ -1,5 +1,8 @@
 ### Howdy 👋, I'm Enkang
 
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][https://www.twitter.com/enkyuan]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][https://www.linkedin.com/in/enkyuan]
+
 ![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
 
 #### About me
