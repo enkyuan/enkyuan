@@ -43,6 +43,8 @@ I've been programming computers since 2017 and enjoy building web-based and mobi
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/tailwindcss-plain.svg" width="50">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/bootstrap-original.svg" width="50">
 </p>
 
 ##### Tools
