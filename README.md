@@ -19,11 +19,11 @@ I've been programming computers since 2017 and enjoy building web-based and mobi
 
 #### GitHub Stats 
 
-###### Overview
+##### Overview
 
 ![overview](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/overview.svg#gh-dark-mode-only)
 
-###### Languages
+##### Languages
 
 ![](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/languages.svg#gh-dark-mode-only)
 
