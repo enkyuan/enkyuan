@@ -29,7 +29,8 @@ I've been programming computers since 2017 and enjoy building web-based and mobi
 
 ##### WakaTime
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### What I use to develop
 
