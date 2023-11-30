@@ -30,6 +30,21 @@ I've been programming computers since 2017 and enjoy building web-based and mobi
 ##### WakaTime
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 28 December 2022 - To: 27 November 2023
+
+Total Time: 6 hrs 26 mins
+
+TypeScript        3 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.85 %
+Dart              46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+JavaScript        40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+HTML              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+XML               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+```
+
 <!--END_SECTION:waka-->
 
 #### What I use to develop
