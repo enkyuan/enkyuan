@@ -51,7 +51,7 @@ Other        8 mins          ▓░░░░░░░░░░░░░░░░
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/python-original.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/nodejs-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/typescript-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
 </p>
 
