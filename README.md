@@ -32,14 +32,14 @@ I've been programming since middle school and enjoy building web-based and mobil
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 December 2023 - To: 11 December 2023
+From: 05 December 2023 - To: 12 December 2023
 
-Total Time: 4 hrs 18 mins
+Total Time: 3 hrs 56 mins
 
-Dart       3 hrs 22 mins   ██████████████████▒░░░░░░   73.38 %
-Lua        34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-Markdown   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Other      17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Dart       3 hrs           █████████████████▓░░░░░░░   71.01 %
+Lua        34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Markdown   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Other      17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
