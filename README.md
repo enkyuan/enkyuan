@@ -32,15 +32,15 @@ I've been programming since middle school and enjoy building web-based and mobil
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 14 hrs 41 mins
+Total Time: 13 hrs 38 mins
 
-TypeScript     13 hrs 24 mins  ██████████████████████▓░░   90.57 %
-CSS            33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-conf           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JavaScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript     11 hrs 16 mins  ████████████████████▓░░░░   82.00 %
+Markdown       1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+CSS            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
