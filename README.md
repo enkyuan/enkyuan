@@ -32,11 +32,11 @@ I've been programming since middle school and enjoy building web-based and mobil
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
 Total Time: 1 hr 35 mins
 
-Other      20 hrs 50 mins  ███████████████████████▒░   92.89 %
+Other      17 hrs 29 mins  ███████████████████████░░   91.64 %
 ```
 
 <!--END_SECTION:waka-->
