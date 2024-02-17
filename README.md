@@ -27,7 +27,7 @@ I've been programming since middle school and enjoy building web-based and mobil
 
 ![languages](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/languages.svg#gh-dark-mode-only)
 
-##### WakaTime Weekly Stats
+#### WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
 
