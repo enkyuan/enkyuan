@@ -65,7 +65,8 @@ Other        1 hr 19 mins    ██████████████▓░░
 ##### Tools
 
 <p align="left">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/androidstudio-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/androidstudio-original.svg" width="50">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/xcode-original.svg" width="50">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/figma-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/firebase-plain.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg" width="50">
