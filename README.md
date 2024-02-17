@@ -59,7 +59,7 @@ Other        1 hr 19 mins    ██████████████▓░░
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/tailwindcss-plain.svg" width="50">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/bootstrap-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vite-original.svg" width="50">
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vitejs-original.svg" width="50">
 </p>
 
 ##### Tools
