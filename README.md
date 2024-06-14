@@ -28,7 +28,7 @@ I've been programming since middle school and enjoy building web-based and mobil
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
 Total Time: 0 secs
 
