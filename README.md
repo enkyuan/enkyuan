@@ -9,9 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
 
-#### About me
+#### About 
 
-I've been programming since middle school and enjoy building web-based and mobile applications in my spare time. Currently I'm studying Computer Science at UT Dallas and focused on learning more complex algorithms and languages, i.e., Go, Rust, and C++. I'm currently building a few full stack development projects and learning system design, low-level computing, and introductory machine learning concepts.
+Currently majoring in Computer Science at UT Dallas with a minor in Mathematics. My learning system design, low-level computing, and introductory machine learning concepts.
 
 #### GitHub Stats 
 
