@@ -11,7 +11,7 @@
 
 #### About 
 
-Currently majoring in Computer Science at UT Dallas with a minor in Mathematics. My primary focuses (as of late) -- learning system design, higher order mathematics, and covering introductory machine learning concepts.
+Currently majoring in Computer Science at UT Dallas with a minor in Mathematics. My primary focuses (as of late) -- learning system design, higher order mathematics, and covering theoretical CS concepts.
 
 #### GitHub Stats 
 
