@@ -28,12 +28,12 @@ Currently majoring in Computer Science at UT Dallas with a minor in Mathematics.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 12 hrs 10 mins
+Total Time: 13 hrs 50 mins
 
-TypeScript     9 hrs 11 mins   ████████████████▒░░░░░░░░   65.50 %
-Other          1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+TypeScript     10 hrs 3 mins   ███████████████░░░░░░░░░░   60.43 %
+Other          2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
 ```
 
 <!--END_SECTION:waka-->
