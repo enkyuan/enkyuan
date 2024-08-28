@@ -1,4 +1,4 @@
-### Howdy 👋, I'm Enkang
+## Howdy 👋, I'm Enkang
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/enkyuan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -9,21 +9,21 @@
 
 ![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
 
-#### About 
+### About 
 
 Currently majoring in Computer Science at UT Dallas with a minor in Mathematics. My primary focuses (as of late) -- learning system design, higher order mathematics, and covering theoretical CS concepts.
 
-#### GitHub Stats 
+### GitHub Stats 
 
-##### Overview
+#### Overview
 
 ![overview](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/overview.svg#gh-dark-mode-only)
 
-##### Languages
+#### Languages
 
 ![languages](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/languages.svg#gh-dark-mode-only)
 
-#### WakaTime Weekly Stats
+### WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
 
@@ -38,9 +38,9 @@ Other          5 hrs 42 mins   ██████▓░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### What I use to develop
+### What I use to develop
 
-##### Languages
+#### Languages
 
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">
@@ -50,7 +50,7 @@ Other          5 hrs 42 mins   ██████▓░░░░░░░░░�
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
 </p>
 
-##### Frameworks
+#### Frameworks
 
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
@@ -59,7 +59,7 @@ Other          5 hrs 42 mins   ██████▓░░░░░░░░░�
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vitejs-original.svg" width="50">
 </p>
 
-##### Tools
+#### Tools
 
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/neovim-original.svg" width="50">
