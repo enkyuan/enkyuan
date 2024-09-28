@@ -28,14 +28,14 @@ Currently majoring in Computer Science at UT Dallas. My primary focuses (as of l
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
-Total Time: 13 hrs 15 mins
+Total Time: 11 hrs 8 mins
 
-TypeScript    6 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.78 %
-Vue.js        1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-JSON          1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+TypeScript    4 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
+Vue.js        1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+JSON          1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Other         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 ```
 
 <!--END_SECTION:waka-->
