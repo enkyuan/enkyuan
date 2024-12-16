@@ -28,11 +28,11 @@ Currently majoring in Computer Science at UT Dallas. My primary focuses (as of l
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Total Time: 32 mins
+Total Time: 27 mins
 
-Other         6 hrs 21 mins   ███████████████████████░░   92.18 %
+Other         6 hrs 21 mins   ███████████████████████▒░   93.19 %
 ```
 
 <!--END_SECTION:waka-->
