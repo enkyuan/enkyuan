@@ -43,9 +43,10 @@ No activity tracked
 
 <p align="left">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/cpp-original.svg" width="50"> 
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/cpp-original.svg" width="50">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/python-original.svg" width="50">  
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/typescript-original.svg" width="50">  
+  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/go-original.svg" width="50">
   <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
 </p>
 
