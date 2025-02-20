@@ -11,19 +11,7 @@
 
 ### About 
 
-Currently majoring in Computer Science at UT Dallas. My primary focuses (as of late) -- learning system design, higher order mathematics, and covering complex CS concepts.
-
-### GitHub Stats 
-
-#### Overview
-
-![overview](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/overview.svg#gh-dark-mode-only)
-
-#### Languages
-
-![languages](https://github.com/enkyuan/enkyuan/blob/main/github_stats/generated/languages.svg#gh-dark-mode-only)
-
-### WakaTime Weekly Stats
+Currently majoring in Computer Science at UT Dallas. My primary focuses (as of late) -- learning system design, advanced maths, and theoretical CS.
 
 <!--START_SECTION:waka-->
 
