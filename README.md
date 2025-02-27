@@ -11,7 +11,9 @@
 
 ### About 
 
-Currently majoring in Computer Science at UT Dallas. My primary focuses (as of late) -- learning system design, advanced maths, and theoretical CS.
+Currently majoring in Computer Science at UT Dallas. My primary focuses (as of late) -- learning system design, advanced maths, and CS.
+
+![](https://enkyuan.surge.sh/)
 
 <!--START_SECTION:waka-->
 
