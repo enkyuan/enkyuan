@@ -16,13 +16,13 @@ Currently majoring in Computer Science at UT Dallas. My primary focuses (as of l
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 6 hrs 15 mins
+Total Time: 6 hrs 26 mins
 
-Other        28 hrs 45 mins  ████████████████████▓░░░░   82.12 %
-TypeScript   5 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Python       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other        34 hrs 49 mins  █████████████████████░░░░   84.40 %
+TypeScript   5 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Bash         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
