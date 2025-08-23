@@ -11,7 +11,7 @@
 
 ### About 
 
-Currently majoring in Computer Science at UT Dallas. My primary focuses (as of late) -- learning system design, advanced maths, and CS.
+Currently majoring in Computer Engineering @Purdue Unviversity. My primary focuses (as of late) -- system design, advanced maths, and building readspace.
 
 <!--START_SECTION:waka-->
 
