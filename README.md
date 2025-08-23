@@ -11,7 +11,7 @@
 
 ### About 
 
-Currently majoring in Computer Engineering @Purdue Unviversity. My primary focuses (as of late) -- system design, advanced maths, and building readspace.
+Currently majoring in Computer Engineering @Purdue University. My primary focuses (as of late) -- system design, advanced maths, and building readspace.
 
 <!--START_SECTION:waka-->
 
