@@ -18,7 +18,8 @@ Currently majoring in Computer Science at UT Dallas. My primary focuses (as of l
 ```rust
 Total Time: 0 secs
 
-No activity tracked
+Other   2 hrs 32 mins   █████████████████████████   99.91 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
