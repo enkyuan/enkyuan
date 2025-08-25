@@ -16,13 +16,13 @@ Currently majoring in Computer Engineering @Purdue University. My primary focuse
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 7 mins
+Total Time: 5 hrs 36 mins
 
-Other     11 hrs 56 mins  ████████████████████████▓   98.92 %
-Lua       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Crontab   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        19 hrs 33 mins  ███████████████████▒░░░░░   77.73 %
+TypeScript   4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Lua          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
