@@ -11,7 +11,7 @@
 
 ### About 
 
-Currently majoring in Computer Engineering @Purdue University. My primary focuses (as of late) -- system design, advanced maths, and building readspace.
+Currently majoring in Computer Engineering @ Purdue. Building Readspace, the inbox for RSS feeds, and anything that you like to read. Learning system design, advanced maths, and reading stuff on the side.
 
 <!--START_SECTION:waka-->
 
