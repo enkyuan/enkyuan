@@ -18,7 +18,7 @@ Currently majoring in Computer Engineering @ Purdue. Building Readspace, the inb
 ```rust
 Total Time: 0 secs
 
-Other   27 hrs 7 mins   █████████████████████████   100.00 %
+Other   21 hrs 12 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
