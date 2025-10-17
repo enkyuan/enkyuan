@@ -26,38 +26,3 @@ Python       3 hrs 28 mins   █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### What I use to develop
-
-#### Languages
-
-<p align="left">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/java-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/cpp-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/python-original.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/typescript-original.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/go-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/dart-original.svg" width="50">
-</p>
-
-#### Frameworks
-
-<p align="left">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/flutter-original.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/react-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/tailwindcss-plain.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vitejs-original.svg" width="50">
-</p>
-
-#### Tools
-
-<p align="left">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/neovim-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/androidstudio-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/xcode-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/vscode-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/figma-original.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/firebase-plain.svg" width="50">  
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/googlecloud-original.svg" width="50">
-  <img src="https://github.com/enkyuan/enkyuan/blob/main/devicons/docker-original.svg" width="50">
-</p>
