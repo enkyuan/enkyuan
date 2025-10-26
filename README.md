@@ -16,13 +16,13 @@ Currently majoring in Computer Engineering @ Purdue. Building Readspace, the inb
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 38 hrs 39 mins
+Total Time: 31 hrs 12 mins
 
-TypeScript   21 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.84 %
-Other        7 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Swift        4 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Markdown     3 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-JSON         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TypeScript   15 hrs 36 mins  █████████▓░░░░░░░░░░░░░░░   38.80 %
+Other        9 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+Markdown     3 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+JSON         2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Swift        2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
