@@ -11,7 +11,7 @@
 
 ### About 
 
-CE @ Purdue. Building Readspace. Learning system design, advanced maths, and reading technical blogs.
+CE @ Purdue. building Readspace. learning system design, advanced maths, and reading technical blogs.
 
 <!--START_SECTION:waka-->
 
