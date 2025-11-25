@@ -11,7 +11,7 @@
 
 ### About 
 
-Currently majoring in Computer Engineering @ Purdue. Building Readspace, the inbox for RSS feeds, and anything that you like to read. Learning system design, advanced maths, and reading stuff on the side.
+CE @ Purdue. Building Readspace. Learning system design, advanced maths, and reading technical blogs.
 
 <!--START_SECTION:waka-->
 
