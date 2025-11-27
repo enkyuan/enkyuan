@@ -16,13 +16,13 @@ CE @ Purdue. building Readspace. learning system design, advanced maths, and rea
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 7 hrs 37 mins
+Total Time: 8 hrs 23 mins
 
-TypeScript   5 hrs 49 mins   █████████████████░░░░░░░░   68.36 %
-Other        54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-YAML         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+TypeScript   6 hrs 44 mins   ███████████████████▓░░░░░   78.40 %
+Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+YAML         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
