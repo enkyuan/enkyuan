@@ -18,7 +18,7 @@ CE @ Purdue. building Readspace. learning system design, advanced maths, and rea
 ```rust
 Total Time: 0 secs
 
-Other   2 hrs 17 mins   █████████████████████████   100.00 %
+Other   2 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
