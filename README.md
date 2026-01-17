@@ -1,12 +1,6 @@
 ## Howdy 👋, I'm Enkang
 
-<div id="badges">
-  <a href="https://twitter.com/enkyuan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
-</div>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=enkyuan&color=purple)
 
 <!--START_SECTION:waka-->
 
