@@ -9,10 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=enkyuan&color=blueviolet)
 
-### About 
-
-CE @ Purdue. building Readspace. learning system design, advanced maths, and reading technical blogs.
-
 <!--START_SECTION:waka-->
 
 ```rust
