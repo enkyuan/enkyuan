@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 11 hrs 50 mins
+Total Time: 17 hrs 9 mins
 
-Other        14 hrs 37 mins  █████████████▓░░░░░░░░░░░   55.09 %
-TypeScript   5 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Swift        3 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Git Config   1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        17 hrs 45 mins  ████████████▓░░░░░░░░░░░░   50.87 %
+TypeScript   5 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Bash         5 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Swift        4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Git Config   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
