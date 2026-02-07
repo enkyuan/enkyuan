@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 7 hrs 14 mins
+Total Time: 0 secs
 
-Swift    7 hrs 2 mins    ████████████████████▓░░░░   83.15 %
-Other    1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
