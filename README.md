@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 3 hrs 4 mins
+Total Time: 0 secs
 
-Other        47 hrs 48 mins        ███████████████████████▒░   93.97 %
-TypeScript   2 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Bash         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-TSConfig     3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        48 hrs 25 mins        █████████████████████████   99.99 %
+Io           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+MiniScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
