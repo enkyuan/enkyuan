@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 4 hrs 48 mins
+Total Time: 5 hrs 39 mins
 
-Other        52 hrs 53 mins        ███████████████████████░░   91.68 %
-Swift        4 hrs 47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Other        60 hrs 39 mins        ███████████████████████░░   91.47 %
+Swift        5 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 Io           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 MiniScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
