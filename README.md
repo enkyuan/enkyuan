@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 51 mins
 
-Other        55 hrs 23 mins        ████████████████████████▒   96.80 %
-CSV          1 hr 24 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-YAML         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        57 hrs 21 mins        ████████████████████████▒   96.86 %
+CSV          1 hr 24 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
