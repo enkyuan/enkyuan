@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 1 hr 57 mins
+Total Time: 6 hrs 52 mins
 
-Other        46 hrs 41 mins        ████████████████████████░   95.98 %
-TypeScript   1 hr 28 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-CSS          14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Markdown     9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Python       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other        38 hrs 36 mins        █████████████████████▒░░░   84.87 %
+TypeScript   3 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Text         3 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+CSS          14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+YAML         11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
