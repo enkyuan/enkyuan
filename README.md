@@ -7,8 +7,7 @@
 ```rust
 Total Time: 0 secs
 
-Other   1 hr 32 mins          █████████████████████████   99.95 %
-JSON    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other   13 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
